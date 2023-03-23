@@ -35,6 +35,10 @@
   &__descr {
     font-size: 14px;
     line-height: 18px;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+    white-space: normal;
+    overflow: hidden;
   }
 
   &__btns {
