@@ -114,7 +114,7 @@ const View = ({ props }) => {
 }
 
 CharList.propTypes = {
-  onCharSelected: PropTypes.number
+  onCharSelected: PropTypes.func
 }
 
 export default CharList;
