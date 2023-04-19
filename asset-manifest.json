@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Marvel-project/static/css/main.57d9f4cf.css",
+    "main.js": "/Marvel-project/static/js/main.88f56cf8.js",
+    "static/js/787.f1705ee6.chunk.js": "/Marvel-project/static/js/787.f1705ee6.chunk.js",
+    "static/media/error-cat.gif": "/Marvel-project/static/media/error-cat.4621b7b650fbe7f45448.gif",
+    "static/media/RobotoCondensed-Regular.ttf": "/Marvel-project/static/media/RobotoCondensed-Regular.a6f94c7c22780605740b.ttf",
+    "static/media/RobotoCondensed-Bold.ttf": "/Marvel-project/static/media/RobotoCondensed-Bold.6d04e300fafc8faa8ada.ttf",
+    "static/media/vision.png": "/Marvel-project/static/media/vision.4d6f967110994e4613c0.png",
+    "static/media/RobotoCondensed-Bold.woff": "/Marvel-project/static/media/RobotoCondensed-Bold.de31490429a1f6ae32e5.woff",
+    "static/media/RobotoCondensed-Regular.woff": "/Marvel-project/static/media/RobotoCondensed-Regular.362edd5359a239be31fb.woff",
+    "static/media/RobotoCondensed-Regular.woff2": "/Marvel-project/static/media/RobotoCondensed-Regular.7b7301be89f3656091ac.woff2",
+    "static/media/RobotoCondensed-Bold.woff2": "/Marvel-project/static/media/RobotoCondensed-Bold.071f8dcb9a54a33d23e6.woff2",
+    "static/media/mjolnir.png": "/Marvel-project/static/media/mjolnir.b10f8e634d5efd274514.png",
+    "index.html": "/Marvel-project/index.html",
+    "main.57d9f4cf.css.map": "/Marvel-project/static/css/main.57d9f4cf.css.map",
+    "main.88f56cf8.js.map": "/Marvel-project/static/js/main.88f56cf8.js.map",
+    "787.f1705ee6.chunk.js.map": "/Marvel-project/static/js/787.f1705ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d9f4cf.css",
+    "static/js/main.88f56cf8.js"
+  ]
+}
